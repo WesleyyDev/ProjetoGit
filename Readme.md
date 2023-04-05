@@ -1,1 +1,1 @@
-Olá, esse projeto serve jpara aprender a usar o Git
+Olá, esse projeto serve jpara aprender a usar o Git .
